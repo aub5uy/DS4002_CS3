@@ -2,7 +2,7 @@
 A DS 4002 Case Study by Pranav Arora
 
 ## Hook and Rubric Documents
-The hook document outlining the case study is the file labeled CS3Hook.pdf. The rubric CS2Rubric.pdf outlines the formatting, submission requirements, and final deliverables for this assignment. Both documents should be referenced continously throughout your completion of the case study to guarantee success on the assignment.
+The hook document outlining the case study is the file labeled CS3Hook.pdf. The rubric CS2Rubric.pdf outlines the formatting, submission requirements, and final deliverables for this assignment. To successfully complete the case study assignment, be sure to closely follow these documents.
 
 ## Data
 The dataset for this case study is under the Materials folder and named [household_power_consumption_dataset.csv](https://github.com/aub5uy/DS4002_CS3/blob/main/Materials/household_power_consumption_dataset.csv). The original dataset was retrieved from [https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption). This dataset is required to run [CS3_Script](https://github.com/aub5uy/DS4002_CS3/blob/main/Materials/CS3_Script.ipynb).
