@@ -12,4 +12,4 @@ The articles below are also in PDF format under the REFERENCES folder.
 
 L. Saad Saoud, H. Al-Marzouqi and R. Hussein, "Household Energy Consumption Prediction Using the Stationary Wavelet Transform and Transformers," in IEEE Access, vol. 10, pp. 5171-5183, 2022, doi: 10.1109/ACCESS.2022.3140818. https://ieeexplore.ieee.org/document/9672113 (accessed Dec. 05, 2024).
 
-[2]M. Jacob, “Forecasting household energy consumption,” Medium, Feb. 02, 2024. https://medium.com/the-centre-for-net-zero-tech-blog/forecasting-household-energy-consumption-5ede5be522c4 (accessed Dec. 05, 2024).
+M. Jacob, “Forecasting household energy consumption,” Medium, Feb. 02, 2024. https://medium.com/the-centre-for-net-zero-tech-blog/forecasting-household-energy-consumption-5ede5be522c4 (accessed Dec. 05, 2024).
