@@ -8,7 +8,7 @@ The hook document outlining the case study is the file labeled CS3Hook.pdf. The 
 The dataset for this case study is under the DATA folder and named [household_power_consumption_dataset.csv](https://github.com/aub5uy/DS4002_CS3/blob/main/DATA/household_power_consumption_dataset.csv). The original dataset was retrieved from [https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption). This dataset is required to run [CS3_Script](https://github.com/aub5uy/DS4002_CS3/blob/main/SCRIPTS/CS3_Script.ipynb) located under the SCRIPTS folder.
 
 ## Reference Materials
-The articles below are also in PDF format under the Materials folder.
+The articles below are also in PDF format under the REFERENCES folder.
 
 L. Saad Saoud, H. Al-Marzouqi and R. Hussein, "Household Energy Consumption Prediction Using the Stationary Wavelet Transform and Transformers," in IEEE Access, vol. 10, pp. 5171-5183, 2022, doi: 10.1109/ACCESS.2022.3140818. https://ieeexplore.ieee.org/document/9672113 (accessed Dec. 05, 2024).
 
